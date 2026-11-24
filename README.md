@@ -36,4 +36,13 @@ Full-stack web developer and Linux enthusiast building Bangladesh-focused educat
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzurul303&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api?username=manzurul303&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Manzurul Haque's GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manzurul303&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
