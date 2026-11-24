@@ -1,5 +1,4 @@
-### Hi there, I'm Manzurul 👋
-
+### Hi! there, I'm Manzurul 👋
 Web development learner and Linux enthusiast building Bangladesh-focused educational platforms, student portals, and e-commerce web applications while exploring modern full-stack technologies.
 
 ---
@@ -33,10 +32,13 @@ Web development learner and Linux enthusiast building Bangladesh-focused educati
 
 ### 🚀 Featured Projects
 
-- **[Earth of Study](https://earthofstudy.vercel.app)** *(Private)* — Bangladesh-first learning platform built with TypeScript, Next.js, Prisma, and PostgreSQL.
-- **[Imaginecart Store](https://imaginecartstore.vercel.app)** *(Private)* — Full-stack e-commerce storefront built with TypeScript and modern web technologies.
-- **[Result Portal](https://boardresult.vercel.app/)** *(Private)* — Lightweight academic result lookup portal built with HTML and JavaScript.
-- **[JGCJ HSC-26 Portal](https://jgcj-hsc26.vercel.app)** *(Private)* — Student verification and academic portal for Jashore Government College (HSC 2026).
+| Name | Summary | Stack |
+| :---: | :---: | :---: |
+| **[Earth of Study](https://earthofstudy.vercel.app)** | Bangladesh-first learning platform | TypeScript, Next.js, Prisma, PostgreSQL |
+| **[Imaginecart Store](https://imaginecartstore.vercel.app)** | Full-stack e-commerce storefront | TypeScript, Next.js |
+| **[Result Portal](https://boardresult.vercel.app)** | Lightweight result lookup portal | HTML, JavaScript |
+| **[JGCJ HSC-26 Portal](https://jgcj-hsc26.vercel.app)** | JGCJ HSC-26 student verification portal | Next.js, TypeScript |
+
 ---
 
 ### 📊 GitHub Activity
