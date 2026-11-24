@@ -59,4 +59,4 @@ Web development learner and Linux enthusiast building Bangladesh-focused educati
 
 ### 📬 Contact
 
-📧 **Email:** [manzurul_haque@outlook.com](mailto:manzurul_haque@outlook.com)
+**Email:** [manzurul_haque@outlook.com](mailto:manzurul_haque@outlook.com)
