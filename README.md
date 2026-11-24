@@ -29,11 +29,11 @@ Full-stack web developer and Linux enthusiast building Bangladesh-focused educat
 - **Earth of Study** *(Private Repo)* — Bangladesh-first learning platform built with TypeScript, Next.js, Prisma, and PostgreSQL.
 - **Imaginecart Store** *(Private Repo)* — Full-stack e-commerce storefront built with TypeScript and modern web technologies.
 - **[JGCJ HSC-26 Portal](https://jgcj-hsc26.vercel.app)** *(Private Repo · Live Demo)* — Student verification and academic portal for Jashore Government College (HSC 2026).
-- **[Result Portal](https://github.com/manzurul-haq/result-portal)** *(Public)* — Lightweight academic result lookup portal built with HTML and JavaScript.
+- **[Result Portal](https://github.com/manzurul303/result-portal)** *(Public)* — Lightweight academic result lookup portal built with HTML and JavaScript.
 - **Personal Portfolio (`manzurulcc`)** *(Private Repo)* — Custom responsive portfolio website styled with CSS.
 
 ---
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzurul-haq&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzurul303&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true)
