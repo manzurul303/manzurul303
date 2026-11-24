@@ -33,8 +33,8 @@ Web development learner and Linux enthusiast building Bangladesh-focused educati
 
 ### 🚀 Featured Projects
 
-- **[Earth of Study](earthofstudy.vercel.app)** *(Private)* — Bangladesh-first learning platform built with TypeScript, Next.js, Prisma, and PostgreSQL.
-- **[Imaginecart Store](imaginecartstore.vercel.app)** *(Private)* — Full-stack e-commerce storefront built with TypeScript and modern web technologies.
+- **[Earth of Study](https://earthofstudy.vercel.app)** *(Private)* — Bangladesh-first learning platform built with TypeScript, Next.js, Prisma, and PostgreSQL.
+- **[Imaginecart Store](https://imaginecartstore.vercel.app)** *(Private)* — Full-stack e-commerce storefront built with TypeScript and modern web technologies.
 - **[Result Portal](https://boardresult.vercel.app/)** *(Private)* — Lightweight academic result lookup portal built with HTML and JavaScript.
 - **[JGCJ HSC-26 Portal](https://jgcj-hsc26.vercel.app)** *(Private)* — Student verification and academic portal for Jashore Government College (HSC 2026).
 ---
