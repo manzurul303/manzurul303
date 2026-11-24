@@ -1,6 +1,6 @@
 ### Hi! there, I'm Manzurul 👋
 
-Web development learner and Linux enthusiast building Bangladesh-focused educational platforms, student portals, and e-commerce web applications while exploring modern full-stack technologies.
+<b>Web development learner</b> and <b>Linux enthusiast</b> building Bangladesh-focused educational platforms, student portals, and e-commerce web applications while exploring modern full-stack technologies.
 
 <hr>
 
