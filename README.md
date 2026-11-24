@@ -2,7 +2,7 @@
 
 Web development learner and Linux enthusiast building Bangladesh-focused educational platforms, student portals, and e-commerce web applications while exploring modern full-stack technologies.
 
----
+<hr>
 
 ### 🛠️ Tech Stack
 
@@ -29,7 +29,7 @@ Web development learner and Linux enthusiast building Bangladesh-focused educati
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
----
+<hr>
 
 ### 🚀 Featured Projects
 
@@ -40,7 +40,7 @@ Web development learner and Linux enthusiast building Bangladesh-focused educati
 | **[Result Portal](https://boardresult.vercel.app)** | Lightweight result lookup portal | HTML, JavaScript |
 | **[JGCJ HSC-26 Portal](https://jgcj-hsc26.vercel.app)** | JGCJ HSC-26 student verification portal | Next.js, TypeScript |
 
----
+<hr>
 
 ### 📊 GitHub Activity
 
